@@ -1,0 +1,40 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 30;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    width: 50%;
+    height: 120px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .BoSh{
+    box-shadow:5px 5px 5px grey;
+  }
+
+  body{
+    background-image: url("background.jpg");
+  }
+
+  canvas{
+    border-width: 6px;
+    border-color: black;
+    border-style:ridge;
+    margin-bottom: 100px;
+  }
+ 
